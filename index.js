@@ -46,7 +46,7 @@ function enableScroll() {
     window.removeEventListener('keydown', preventDefaultForScrollKeys, false);
 }
 
-export {
+module.exports = {
     disableScroll,
     enableScroll
 }
