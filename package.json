@@ -1,6 +1,6 @@
 {
   "name": "enable-disable-window-scroll",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An easy way to disable / enable window scroll",
   "keywords": ["scroll", "javascript", "disable scroll"],
   "main": "index.js",
